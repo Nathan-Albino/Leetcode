@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  }
+}
