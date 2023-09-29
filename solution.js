@@ -1,7 +1,4 @@
-/**
- * @param {number[]} nums
- * @return {boolean}
- */
+
 const containsDuplicate = function (nums) {
   let testObj = {}
 
