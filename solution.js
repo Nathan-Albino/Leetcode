@@ -1,7 +1,7 @@
 
 const containsDuplicate = function (nums) {
   let testObj = {}
-
+  
   for (let i = 0; i < nums.length; i++) {
     if (testObj[nums[i]]) {
       return true
